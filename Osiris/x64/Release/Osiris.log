@@ -1,0 +1,85 @@
+﻿cl : command line warning D9002: ignoring unknown option '/arch:SSE2'
+cl : command line warning D9002: ignoring unknown option '/arch:SSE2'
+cl : command line warning D9002: ignoring unknown option '/arch:SSE2'
+cl : command line warning D9002: ignoring unknown option '/arch:SSE2'
+  Aimbot.cpp
+  Visuals.cpp
+  Hooks.cpp
+cl : command line warning D9002: ignoring unknown option '/arch:SSE2'
+  KeyValues.cpp
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(8,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(9,9): error C2065: 'push': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(9,14): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(10,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(10,9): error C2065: 'mov': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(10,13): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(10,13): error C2065: 'edx': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(11,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(11,9): error C2065: 'mov': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(11,13): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(11,13): error C2065: 'ecx': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(12,9): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(12,9): error C2065: 'call': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(12,14): error C2146: syntax error: missing ';' before identifier 'keyValuesFromString'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(13,9): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(13,9): error C2065: 'add': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(13,13): error C2146: syntax error: missing ';' before identifier 'esp'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(13,13): error C2065: 'esp': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(14,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(14,9): error C2065: 'mov': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(14,13): error C2146: syntax error: missing ';' before identifier 'keyValues'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(14,24): error C2065: 'eax': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\SDK\KeyValues.cpp(15,5): error C2143: syntax error: missing ';' before '}'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Aimbot.cpp(853,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Aimbot.cpp(854,9): error C2065: 'mov': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Aimbot.cpp(854,13): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Aimbot.cpp(854,13): error C2065: 'ecx': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Aimbot.cpp(855,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Aimbot.cpp(855,9): error C2065: 'mov': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Aimbot.cpp(855,13): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Aimbot.cpp(855,13): error C2065: 'edx': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Aimbot.cpp(856,5): error C2143: syntax error: missing ';' before '}'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1693,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1693,5): error C2065: 'push': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1693,5): error C2146: syntax error: missing ';' before identifier 'h'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1693,5): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1693,5): error C2146: syntax error: missing ';' before identifier 'w'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1693,5): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1693,5): error C2065: 'edx': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1693,5): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1693,5): error C2065: 'mov': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1693,5): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1693,5): error C2065: 'ecx': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1693,5): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1693,5): error C2065: 'call': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1693,5): error C2146: syntax error: missing ';' before identifier 'drawFunction'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1693,5): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1693,5): error C2065: 'add': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1693,5): error C2146: syntax error: missing ';' before identifier 'esp'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1693,5): error C2065: 'esp': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1693,5): error C2143: syntax error: missing ';' before '}'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1729,13): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1729,13): error C2065: 'push': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1729,13): error C2146: syntax error: missing ';' before identifier 'h'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1729,13): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1729,13): error C2146: syntax error: missing ';' before identifier 'w'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1729,13): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1729,13): error C2065: 'edx': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1729,13): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1729,13): error C2065: 'mov': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1729,13): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1729,13): error C2065: 'ecx': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1729,13): error C2146: syntax error: missing ';' before identifier 'call'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1729,13): error C2065: 'call': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1729,13): error C2146: syntax error: missing ';' before identifier 'drawFunction'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1729,13): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1729,13): error C2065: 'add': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1729,13): error C2146: syntax error: missing ';' before identifier 'esp'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1729,13): error C2065: 'esp': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hacks\Visuals.cpp(1729,13): error C2143: syntax error: missing ';' before '}'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hooks.cpp(131,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hooks.cpp(131,11): error C2065: 'mov': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hooks.cpp(131,15): error C2146: syntax error: missing ';' before identifier 'framePointer'
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hooks.cpp(131,29): error C2065: 'ebp': undeclared identifier
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hooks.cpp(585,59): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
+C:\Users\justi\Desktop\cs\Osiris-master\Osiris\Hooks.cpp(638,67): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
