@@ -193,25 +193,6 @@
 ### Prerequisites
 Microsoft Visual Studio 2019 (preferably the latest version), platform toolset v142 and Windows SDK 10.0.x.x are required in order to compile Osiris. If you don't have ones, you can download VS [here](https://visualstudio.microsoft.com/) (Windows SDK is installed during Visual Studio Setup).
 
-### Downloading
-
-There are two options of downloading the source code:
-
-#### Without [git](https://git-scm.com)
-
-Choose this option if you want pure source and you're not going to contribute to the repo. Download size ~600 kB.
-
-To download source code this way [click here](https://github.com/danielkrupinski/Osiris/archive/master.zip).
-
-#### With [git](https://git-scm.com)
-
-Choose this option if you're going to contribute to the repo or you want to use version control system. Download size ~4 MB. Git is required to step further, if not installed download it [here](https://git-scm.com).
-
-Open git command prompt and enter following command:
-```
-git clone --depth=1 https://github.com/danielkrupinski/Osiris.git
-```
-`Osiris` folder should have been succesfully created, containing all the source files.
 
 ### Compiling from source
 
