@@ -225,4 +225,4 @@ Currently implemented hooking methods are:
 - VmtHook - hook a function directly in a vtable
 - VmtSwap - create a copy of a vtable and swap the pointer on the class instance
 
-Hooking implementation files are located in [Hooks](https://github.com/danielkrupinski/Osiris/tree/master/Osiris/Hooks) directory.
+Hooking implementation files are located in Hooks directory.
